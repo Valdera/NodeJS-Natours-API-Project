@@ -1,2 +1,4 @@
 # NodeJS-Natours-API-Project
-Natours API with Node JS (Server Side Rendering)
+(Natours Tour Booking App)
+Natours API with MongoDB, Express, and NodeJS
+Server Side Rendering
